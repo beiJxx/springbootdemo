@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  context-path: /springbootdemo
+girl:
+  cupSize: B
+  age: 18
+
